@@ -12,7 +12,7 @@
     }else{ ?>
         <script>
             alert("Username atau password yang anda masukkan SALAH !!!");
-            window.location="../index.php"
+            window.location="../index.html"
         </script>
 <?php   
     }
